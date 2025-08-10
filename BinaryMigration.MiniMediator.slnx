@@ -1,0 +1,10 @@
+﻿<Solution>
+  <Folder Name="/SolutionFiles/">
+    <File Path=".editorconfig" />
+    <File Path="README.md" />
+    <File Path=".gitignore" />
+    <File Path="LICENSE.md" />
+  </Folder>
+  <Project Path="BinaryMigration.MiniMediatorTests\BinaryMigration.MiniMediatorTests.csproj" Type="Classic C#" />
+  <Project Path="BinaryMigration.MiniMediator\BinaryMigration.MiniMediator.csproj" Type="Classic C#" />
+</Solution>
